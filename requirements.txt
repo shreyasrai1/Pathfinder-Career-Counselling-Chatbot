@@ -1,0 +1,16 @@
+langchain
+langchain-community
+langchain-huggingface
+transformers
+huggingface-hub
+sentence-transformers
+faiss-cpu
+accelerate
+bitsandbytes
+torch
+streamlit
+pyngrok
+requests==2.32.4
+google-search-results
+pandas
+numpy
